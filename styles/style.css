@@ -1,0 +1,28 @@
+body 
+{
+	font-family: 'Alegreya', serif;
+	font-size: 18px;
+	margin: 3%;
+}
+}
+p 
+{
+	margin: 5px;
+}
+ol
+{
+        margin: 10px;
+}
+ul
+{
+	margin: 10px;
+}
+li
+{
+	margin: 5px;
+}
+img
+{	
+	max-width: 100%;
+}
+
