@@ -1,3 +1,3 @@
 # yulimsong
-artist
-Seoul
+A Fine Artist
+from Seoul
