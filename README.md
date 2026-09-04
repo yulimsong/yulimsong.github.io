@@ -1,3 +1,3 @@
 # yulimsong
 A Fine Artist
-from Finland
+from Rauma, Finland
